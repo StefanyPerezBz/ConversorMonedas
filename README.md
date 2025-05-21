@@ -71,5 +71,5 @@ java -cp bin ui.ConsoleUI
 Insignia de logro por completar el challenge **Practicando con Java: Challenge Conversor de Monedas**
 
 <p align="center">
-  <img src="./image/insignia.webp" alt="Vista de insignia" width="400"/>
+  <img src="./image/Badge-Conversor" alt="Vista de insignia" width="400"/>
 </p>
