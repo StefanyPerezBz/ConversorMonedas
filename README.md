@@ -1,6 +1,6 @@
 # Conversor de Monedas 1.0 💰
 
-![Banner](image/conversor.png)
+<img src="image/conversor.png" alt="Banner" class="mx-auto" />
 
 Un conversor de monedas en tiempo real que utiliza datos de ExchangeRate-API.com, con interfaz de consola amigable y registro de historial de conversiones.
 
@@ -61,8 +61,10 @@ javac -d bin src/**/*.java
 java -cp bin ui.ConsoleUI
 ```
 
-2. Sigue las instrucciones en pantalla
-![Imagen Preview](/image/instrucciones.png)
+<div class="text-center my-4">
+  <p class="text-lg font-semibold">2. Sigue las instrucciones en pantalla</p>
+  <img src="/image/instrucciones.png" alt="Imagen Preview" class="mx-auto mt-2" />
+</div>
 
 ## ⭐​ Insignia de logro
 
