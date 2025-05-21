@@ -13,12 +13,14 @@ Un conversor de monedas en tiempo real que utiliza datos de ExchangeRate-API.com
 - ✅ Manejo de errores robusto
 
 ## Opciones disponibles 📌
+
 1. Conversiones predefinidas (ARS↔USD, BRL↔USD, COP↔USD)
 2. Conversión entre cualquier par de monedas
 3. Visualización de todas las monedas disponibles
 4. Historial de conversiones recientes
 
 ## Estructura del proyecto 📂
+
 ```
 src/
 ├── api/
@@ -51,15 +53,19 @@ api.base_url=https://v6.exchangerate-api.com/v6/
 ```
 
 ## Cómo usar 🚀
+
 1. Compila y ejecuta el proyecto
+
 ```
 javac -d bin src/**/*.java
 java -cp bin ui.ConsoleUI
 ```
+
 2. Sigue las instrucciones en pantalla
-   ![Imagen Preview](/image/instrucciones.png)
+![Imagen Preview](/image/instrucciones.png)
 
 ## ⭐​ Insignia de logro
+
 Insignia de logro por completar el challenge **Practicando con Java: Challenge Conversor de Monedas**
 
 <p align="center">
